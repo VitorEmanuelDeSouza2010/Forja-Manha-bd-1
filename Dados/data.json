@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "BaseBall Bat",
+        "descricao": "Um BASEBALL BAT",
+        "preco": 20.0,
+        "imagem": "../Imagens/baseball bat.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Bola1",
+        "descricao": "Uma Bola",
+        "preco": 6.0,
+        "imagem": "../Imagens/bola.webp"
+    },
+    {
+        "id": 3,
+        "nome": "Bola2",
+        "descricao": "outra Bola",
+        "preco": 6.0,
+        "imagem": "../Imagens/bola2.webp"
+    },
+    {
+        "id": 4,
+        "nome": "Bola3",
+        "descricao": "mais Bolas",
+        "preco": 6.0,
+        "imagem": "../Imagens/bola3.webp"
+    },
+    {
+        "id": 5,
+        "nome": "Bola4",
+        "descricao": "e outra Bola",
+        "preco": 6.0,
+        "imagem": "../Imagens/bola4.webp"
+    },
+    {
+        "id": 6,
+        "nome": "Bola5",
+        "descricao": "e outra",
+        "preco": 6.0,
+        "imagem": "../Imagens/bola5.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Bola6",
+        "descricao": "mais uma...",
+        "preco": 6.0,
+        "imagem": "../Imagens/bola6.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Bola7",
+        "descricao": "...outra...",
+        "preco": 6.0,
+        "imagem": "../Imagens/bola7.jpg"
+    },
+    {
+        "id": 9,
+        "nome": "Bola8",
+        "descricao": "...e outra...",
+        "preco": 6.0,
+        "imagem": "../Imagens/bola8.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Bola9",
+        "descricao": "QUANTAS BOLAS TEM AQUI AFINAL?!",
+        "preco": 6.0,
+        "imagem": "../Imagens/bola9.jpg"
+    }
+]
